@@ -10,9 +10,8 @@
 </div>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iheee6)](https://solved.ac/iheee6/)
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=iheee6&theme=warm"/>
-</div>
+ <img src="http://mazandi.herokuapp.com/api?handle=iheee6&theme=warm"/>
+
 <!--
 **iheee6-6/iheee6-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
