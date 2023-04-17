@@ -9,11 +9,9 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<div align="center">
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iheee6)](https://solved.ac/iheee6/)
-  
-    
-    <img src="http://mazandi.herokuapp.com/api?handle={iheee6}&theme=warm"/>
+<div align="center">
+  <img src="http://mazandi.herokuapp.com/api?handle={iheee6}&theme=warm"/>
 </div>
 <!--
 **iheee6-6/iheee6-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
