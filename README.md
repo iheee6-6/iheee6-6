@@ -13,7 +13,7 @@
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iheee6)](https://solved.ac/iheee6/)
   
     
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=iheee6)](https://solved.ac/iheee6/)
+    <img src="http://mazandi.herokuapp.com/api?handle={iheee6}&theme=warm"/>
 </div>
 <!--
 **iheee6-6/iheee6-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
